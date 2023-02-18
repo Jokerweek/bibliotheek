@@ -1,0 +1,53 @@
+{
+  "bibliotheek": [
+    {
+      "id": "0001",
+      "title": "Outrage: the prejudice against queer aesthetics",
+      "authors": "Adam Nathaniel Furman",
+      "tags": [
+        "Queer",
+        "Inclusieve Stad",
+        "Representatie"
+      ],
+      "url": "https://docs.google.com/viewer?url=https://github.com/Jokerweek/database/raw/main/pdf/0001.pdf"
+    },
+    {
+      "id": "0002",
+      "title": "Safe Space - a queer practice",
+      "authors": "Safe Space Collective",
+      "tags": [
+        "Queer",
+        "Normen",
+        "Representatie"
+      ],
+      "url": "https://docs.google.com/viewer?url=https://github.com/Jokerweek/database/raw/main/pdf/0002.pdf"
+    },
+    {
+      "id": "0003",
+      "title": "Invisible women in invisible places: Lesbians, Lesbian Bars, and the Social Production of People/Environment Relationships",
+      "authors": "Maxine Wolfe",
+      "tags": [
+        "Queer",
+        "Lesbians",
+        "Public Spaces",
+        "Private",
+        "Comfort"
+      ],
+      "url": "https://docs.google.com/viewer?url=https://github.com/Jokerweek/database/raw/main/pdf/0003.pdf"
+    },
+    {
+      "id": "0004",
+      "title": "Hegemony, radical democracy, and the political",
+      "authors": "Chantal Mouffe",
+      "tags": [
+        "Democratie",
+        "Ongelijkheid",
+        "Radicaal Democratisch",
+        "Sociale Bewegingen",
+        "Social Justice",
+        "Socialisme"
+      ],
+      "url": "https://docs.google.com/viewer?url=https://github.com/Jokerweek/database/raw/main/pdf/0004.pdf"
+    }
+  ]
+}
