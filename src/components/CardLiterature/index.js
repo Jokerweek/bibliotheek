@@ -13,10 +13,11 @@ import {
   IconButton,
   Collapse,
   Modal,
-  Box,
 } from "@mui/material";
 import { styled } from "@mui/material/styles";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import CloseIcon from '@mui/icons-material/Close';
+import PDFpreview from "./PDFpreview";
 
 const ExpandMore = styled((props) => {
   const { expand, ...other } = props;
@@ -28,18 +29,6 @@ const ExpandMore = styled((props) => {
     duration: theme.transitions.duration.shortest,
   }),
 }));
-
-const style = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
-  width: 400,
-  bgcolor: 'background.paper',
-  border: '2px solid #000',
-  boxShadow: 24,
-  p: 4,
-};
 
 export default function CardLiterature(props) {
   const [expanded, setExpanded] = useState(false);
@@ -53,23 +42,27 @@ export default function CardLiterature(props) {
     <div>
       <Modal
         open={preview}
-        onClose={() => {setPreview(false)}}
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
       >
-        <Box sx={style}>
-          <Typography id="modal-modal-title" variant="h6" component="h2">
-            Text in a modal
-          </Typography>
-          <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-            Duis mollis, est non commodo luctus, nisi erat porttitor ligula.
-          </Typography>
-        </Box>
+        <div>
+          <PDFpreview />
+          <IconButton
+            aria-label="close preview"
+            onClick={() => {
+              setPreview(false);
+            }}
+          >
+            <CloseIcon />
+          </IconButton>
+        </div>
       </Modal>
       <Grid container justifyContent="center">
         <Card sx={{ width: 300 }}>
           <CardActionArea
-            onClick={() => {setPreview(true)}}
+            onClick={() => {
+              setPreview(true);
+            }}
           >
             <CardMedia
               sx={{ height: 300 }}
