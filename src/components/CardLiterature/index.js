@@ -13,6 +13,7 @@ import {
   IconButton,
   Collapse,
   Modal,
+  Button,
 } from "@mui/material";
 import { styled } from "@mui/material/styles";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
@@ -46,15 +47,16 @@ export default function CardLiterature(props) {
         aria-describedby="modal-modal-description"
       >
         <div>
-          <PDFpreview />
-          <IconButton
-            aria-label="close preview"
+          <PDFpreview url={props.link}/>
+          <Button
+            style={{height:"49px", marginLeft:"5px"}}
             onClick={() => {
               setPreview(false);
             }}
+            startIcon={<CloseIcon />}
           >
-            <CloseIcon />
-          </IconButton>
+            Close
+          </Button>
         </div>
       </Modal>
       <Grid container justifyContent="center">
