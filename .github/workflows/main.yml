@@ -14,9 +14,9 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_folder: ''
+        source_folder: '/'
         destination_repo: 'Jokerweek/database-code'
-        destination_folder: ''
+        destination_folder: '/'
         user_email: 'philippe.soubrier@gmail.com'
         user_name: 'flol3622'
         commit_msg: '[GHA] Update deploy.'
