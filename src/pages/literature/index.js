@@ -8,7 +8,7 @@ import { Grid, Box } from '@mui/material';
 import CardLiterature from "../../components/CardLiterature";
 
 export default function Literature() {
-  const { bib } = useGetBib()
+  const { bib } = useGetBib('bib.json')
 
   return (
     <Box sx={{ maxWidth: 900, mx: "auto", my: 3}}>
