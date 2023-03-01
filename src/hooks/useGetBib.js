@@ -10,7 +10,7 @@ export const useGetBib = (file) => {
       setBib(body.bibliotheek);
     }
     fetchData();
-  }, []);
+  }, [file]);
 
   return { bib };
 };

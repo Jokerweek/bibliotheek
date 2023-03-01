@@ -2,16 +2,12 @@ import { Routes, Route } from "react-router-dom"
 
 // Pages
 import Home from "./pages/home/index.js"
-import Literature from "./pages/literature"
-import Facts from "./pages/facts"
 
 function App() {
   let pages;
 
   pages = [
-    { label: "Home", path: "/", component: Home, props: {} },
-    { label: "Literature", path: "/literature", component: Literature, props: {} },
-    { label: "Facts", path: "/facts", component: Facts, props: {} }
+    { label: "Home", path: "/", component: Home, props: {} }
   ];
 
   return (

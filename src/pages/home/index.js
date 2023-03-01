@@ -1,22 +1,26 @@
-import React from "react";
+import { React } from 'react'
+import { useGetBib } from '../../hooks/useGetBib';
 
 // Material ui Imports
-import { Grid, Box } from "@mui/material";
+import { Grid, Box } from '@mui/material';
 
 // Components
-import CardHome from "../../components/CardHome";
+import CardLiterature from "../../components/CardLiterature";
 
-export default function Home() {
+export default function Literature() {
+  const { bib } = useGetBib('bib.json')
+
   return (
-    <Box sx={{ maxWidth: 600, mx: "auto", pt: 3, px: 3}}>
+    <Box sx={{ maxWidth: 900, mx: "auto", my: 3}}>
       <Grid container spacing={4}>
-        <Grid item sm={6} xs={12} border>
-          <CardHome title={"Literatuur Bibliotheek"} body={"De literatuur bibliotheek bevat literatuur over de verscheidene onderwerpen die tijdens deze week aan bod komen."} link={'/literature'} />
-        </Grid>
-        <Grid item sm={6} xs={12}>
-          <CardHome title={"Feiten Bibliotheek"} body={"De feiten bibliotheek bevat feitelijke informatie over de wijken in Gent waarop er in deze jokerweek wordt gewerkt."} link={'/facts'} />
-        </Grid>
+        {bib.map((element) => {
+          return(
+            <Grid item md={4} sm={6} xs={12} key={element.id}> 
+              <CardLiterature title={element.title} link={element.url} authors={element.authors} tags={element.tags} />
+            </Grid>
+          )
+        })}
       </Grid>
     </Box>
-  );
+  )
 }
