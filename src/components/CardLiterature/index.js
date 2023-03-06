@@ -47,6 +47,14 @@ export default function CardLiterature(props) {
     setExpanded(!expanded);
   };
 
+  const handleRedirect = () => {
+    if (props.pdf) {
+      setPreview(true)
+    } else {
+      window.open(props.link, '_blank')
+    }
+  }
+
   return (
     <div>
       <Modal
@@ -70,14 +78,12 @@ export default function CardLiterature(props) {
       <Grid container justifyContent="center">
         <Card sx={{ width: 300 }}>
           <CardActionArea
-            onClick={() => {
-              setPreview(true);
-            }}
+
+            onClick={handleRedirect}
           >
             <CardMedia
               sx={{ height: 300 }}
-              image="/logo-jokerweek.jpg"
-              //image={props.image}
+              image={`https://raw.githubusercontent.com/Jokerweek/database/main/image/00${props.id}.png`}
               title="logo"
             />
             <CardContent>

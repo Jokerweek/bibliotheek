@@ -1,0 +1,19 @@
+:root {
+  --main-red: #a83e1d;
+  --main-bg: #ecdecf;
+}
+
+
+body {
+  margin: 0;
+}
+
+.background {
+  background-image: url("../public/Spel-officieel-background.jpg");
+  background-size: contain;
+  background-repeat: repeat;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

@@ -65,7 +65,7 @@ export default function Literature() {
           {bib2.map((element) => {
             return(
               <Grid item md={4} sm={6} xs={12} key={element.id}> 
-                <CardLiterature title={element.title} link={element.url} authors={element.authors} tags={element.tags} image={element.image} />
+                <CardLiterature id={element.id} title={element.title} link={element.url} authors={element.authors} tags={element.tags} image={element.image} pdf={element.pdf} />
               </Grid>
             )
           })}

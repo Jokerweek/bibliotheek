@@ -1,13 +1,6 @@
 {
-  "short_name": "Jokerweek Bibliotheek",
+  "short_name": "Jokerweek",
   "name": "Jokerweek Bibliotheek",
-  "icons": [
-    {
-      "src": "logo-jokerweek.png",
-      "type": "image/jpg",
-      "sizes": "2048x2048"
-    }
-  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
