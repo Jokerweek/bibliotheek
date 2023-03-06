@@ -1,4 +1,6 @@
 import { React, useState } from "react";
+import { useSetRecoilState } from "recoil";
+import { tagSelect } from "../../atoms";
 
 // Material ui Imports
 import {
@@ -34,6 +36,12 @@ const ExpandMore = styled((props) => {
 export default function CardLiterature(props) {
   const [expanded, setExpanded] = useState(false);
   const [preview, setPreview] = useState(false);
+  const setTag = useSetRecoilState(tagSelect);
+
+  const handleClick = (tag) => {
+    setTag(tag)
+    setExpanded(false)
+  };
 
   const handleExpandClick = () => {
     setExpanded(!expanded);
@@ -69,6 +77,7 @@ export default function CardLiterature(props) {
             <CardMedia
               sx={{ height: 300 }}
               image="/logo-jokerweek.jpg"
+              //image={props.image}
               title="logo"
             />
             <CardContent>
@@ -111,14 +120,16 @@ export default function CardLiterature(props) {
           <Collapse in={expanded} timeout="auto" unmountOnExit>
             <CardContent>
               {props.tags.map((element) => {
-                return (
+                return(
                   <Chip
+                    key={element}
                     label={element}
                     clickable
                     variant="outlined"
                     sx={{ margin: "3px" }}
+                    onClick={() => handleClick(element)}
                   />
-                );
+                ) 
               })}
             </CardContent>
           </Collapse>
