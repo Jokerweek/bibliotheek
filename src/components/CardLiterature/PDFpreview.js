@@ -2,6 +2,7 @@ import { Viewer, Worker } from "@react-pdf-viewer/core";
 import { zoomPlugin } from "@react-pdf-viewer/zoom";
 import { React } from "react";
 import DownloadIcon from "@mui/icons-material/Download";
+import { ProgressBar } from "@react-pdf-viewer/core";
 
 // Import react-pdf-viewer styles
 import "@react-pdf-viewer/default-layout/lib/styles/index.css";
@@ -62,6 +63,12 @@ export default function PDFpreview(props) {
             <Viewer
               fileUrl={props.url}
               plugins={[zoomPluginInstance]}
+              defaultScale="PageFit"
+              renderLoader={(percentages) => (
+                <div style={{ width: "240px" }}>
+                  <ProgressBar progress={Math.round(percentages)} />
+                </div>
+              )}
             />
           </div>
         </div>
