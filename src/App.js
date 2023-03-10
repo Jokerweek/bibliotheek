@@ -1,4 +1,5 @@
 import { Routes, Route } from "react-router-dom"
+import './app.css';
 
 // Pages
 import Home from "./pages/home/index.js"
@@ -11,19 +12,21 @@ function App() {
   ];
 
   return (
-    <Routes>
-      {pages.map((page) => {
-        const Element = page.component;
-        return (
-          <Route
-            key={page.label}
-            exact
-            path={page.path}
-            element={<Element {...page.props} />}
-          />
-        );
-      })}
-    </Routes>
+    <div className="background-image">
+      <Routes>
+        {pages.map((page) => {
+          const Element = page.component;
+          return (
+            <Route
+              key={page.label}
+              exact
+              path={page.path}
+              element={<Element {...page.props} />}
+            />
+          );
+        })}
+      </Routes>
+    </div>
   );
 }
 

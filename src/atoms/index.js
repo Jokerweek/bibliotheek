@@ -5,4 +5,9 @@ const tagSelect = atom({
   default: "",
 })
 
-export { tagSelect }
+const formatSelect = atom({
+  key: 'formatSelect',
+  default: "",
+})
+
+export { tagSelect, formatSelect }

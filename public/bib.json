@@ -4,13 +4,13 @@
       "authors": "Decoratelier",
       "tags": [
           "publieke ruimte",
-          "recreatie",
           "gemeenschap",
-          "participatie"
+          "participatie",
+          "recreatie"
       ],
       "format": "website",
       "url": "https://nuitblanche.brussels/nl/activity/17-mouvements/",
-      "id": 1
+      "id": "0001"
   },
   {
       "title": "A Conversation on the discomfort of Feminist Design Pedagogy",
@@ -22,7 +22,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0002.pdf",
-      "id": 2
+      "id": "0002"
   },
   {
       "title": "A fence and a ladder: subversive acts of everyday urbanism at home",
@@ -35,7 +35,7 @@
       ],
       "format": "website",
       "url": "https://neighbourhoodindex.org/index/243e0b58-abbc-4e12-bbbe-49749d814900/",
-      "id": 3
+      "id": "0003"
   },
   {
       "title": "Altering Practices ",
@@ -45,7 +45,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0004.pdf",
-      "id": 4
+      "id": "0004"
   },
   {
       "title": "Architect is nog steeds een erg 'wit' beroep. Hoe zorgen we voor meer diversiteit?",
@@ -56,7 +56,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0005.pdf",
-      "id": 5
+      "id": "0005"
   },
   {
       "title": "Architecture from without: Body, Logic and Sex",
@@ -68,7 +68,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0006.pdf",
-      "id": 6
+      "id": "0006"
   },
   {
       "title": "Architecture of Appropriation",
@@ -79,7 +79,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0007.pdf",
-      "id": 7
+      "id": "0007"
   },
   {
       "title": "Bad Press ",
@@ -93,7 +93,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0008.pdf",
-      "id": 8
+      "id": "0008"
   },
   {
       "title": "Behind straight curtains: towards a queer feminist theory of architecture",
@@ -105,7 +105,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0009.pdf",
-      "id": 9
+      "id": "0009"
   },
   {
       "title": "Being imposed upon",
@@ -117,7 +117,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:002983772?i=0&q=being+imposed+upon",
-      "id": 10
+      "id": "0010"
   },
   {
       "title": "Being-in relation and reinventing the commons ",
@@ -130,7 +130,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0011.pdf",
-      "id": 11
+      "id": "0011"
   },
   {
       "title": "Building Character, The Racial Politics of Modern Architecture",
@@ -141,7 +141,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:002798786?i=0&q=Building+Character%2C+The+Racial+Politics+of+Modern+Architecture",
-      "id": 12
+      "id": "0012"
   },
   {
       "title": "BWMST Label - Ruimte voor diversiteit",
@@ -153,7 +153,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0013.pdf",
-      "id": 13
+      "id": "0013"
   },
   {
       "title": "Can the immigrant speak?",
@@ -166,7 +166,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0014.pdf",
-      "id": 14
+      "id": "0014"
   },
   {
       "title": "Choosing the Margin as a\nSpace of Radical Openness",
@@ -177,7 +177,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0015.pdf",
-      "id": 15
+      "id": "0015"
   },
   {
       "title": "Colonialism and Modern Architecture in Germany",
@@ -188,7 +188,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:002366538?i=1&q=Colonialism+and+Modern+Architecture+in+Germany",
-      "id": 16
+      "id": "0016"
   },
   {
       "title": "Common places",
@@ -199,7 +199,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:002855776?i=2&q=common+places",
-      "id": 17
+      "id": "0017"
   },
   {
       "title": "Curb cuts",
@@ -212,7 +212,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/2DKkoQiEsac06MGiKY96P2?si=79039d0fc19f4ab7",
-      "id": 18
+      "id": "0018"
   },
   {
       "title": "Dekoloniseer het kunstonderwijs",
@@ -224,7 +224,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0019.pdf",
-      "id": 19
+      "id": "0019"
   },
   {
       "title": "Design is Political: White Supremacy and Landscape Urbanism",
@@ -236,7 +236,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0020.pdf",
-      "id": 20
+      "id": "0020"
   },
   {
       "title": "Digital activism, woman architects and Pritzker Prize",
@@ -248,7 +248,7 @@
       ],
       "format": "podcast",
       "url": "https://failedarchitecture.com/podcast/digital-activism-women-architects-pritzker-prize-w-arielle-assouline-lichten/",
-      "id": 21
+      "id": "0021"
   },
   {
       "title": "Doing Dysability Differently",
@@ -260,7 +260,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0022.pdf",
-      "id": 22
+      "id": "0022"
   },
   {
       "title": "Epistemic Justice in the Design Process",
@@ -272,7 +272,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0023.pdf",
-      "id": 23
+      "id": "0023"
   },
   {
       "title": "Ethos",
@@ -283,7 +283,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0024.pdf",
-      "id": 24
+      "id": "0024"
   },
   {
       "title": "Failed Architecture",
@@ -294,7 +294,7 @@
       ],
       "format": "website",
       "url": "https://failedarchitecture.com/",
-      "id": 25
+      "id": "0025"
   },
   {
       "title": "Fences and Between Fences: Cultural, Historical, and Smithsonian Perspectives",
@@ -307,7 +307,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0026.pdf",
-      "id": 26
+      "id": "0026"
   },
   {
       "title": "Hegemony, radical democracy, and the political",
@@ -318,7 +318,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0027.pdf",
-      "id": 27
+      "id": "0027"
   },
   {
       "title": "Making Space: Women and the Man-Made Environment",
@@ -331,7 +331,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0028.pdf",
-      "id": 28
+      "id": "0028"
   },
   {
       "title": "Hoe ga je om met genderstereotyperingen en seksisme op de werf? ",
@@ -342,7 +342,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0029.pdf",
-      "id": 29
+      "id": "0029"
   },
   {
       "title": "Homeplace: A Site of Resistance",
@@ -354,7 +354,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0030.pdf",
-      "id": 30
+      "id": "0030"
   },
   {
       "title": "How to build a club: a talk with rave architecture collective Temporary Pleasure",
@@ -362,13 +362,13 @@
       "tags": [
           "nachtleven",
           "socialisme",
+          "queer",
           "participatie",
-          "ontwerp",
-          "queer"
+          "ontwerp"
       ],
       "format": "website",
       "url": "https://www.minimalcollective.digital/editorial/how-to-build-a-club",
-      "id": 31
+      "id": "0031"
   },
   {
       "title": "In een vrouwelijke stad voelen ook mannen zich thuis",
@@ -381,7 +381,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/7jELdazuEiPIFAMhINCa6b?si=2749a90d2c234347&nd=1",
-      "id": 32
+      "id": "0032"
   },
   {
       "title": "Including universal design in engineering courses to attract diverse students",
@@ -393,21 +393,21 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0033.pdf",
-      "id": 33
+      "id": "0033"
   },
   {
       "title": "Invisible women in invisible places: Lesbians, Lesbian Bars, and the Social Production of People/Environment Relationships",
       "authors": "Maxine Wolfe",
       "tags": [
           "queer",
+          "nachtleven",
           "publieke ruimte",
           "privacy",
-          "representatie",
-          "nachtleven"
+          "representatie"
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0034.pdf",
-      "id": 34
+      "id": "0034"
   },
   {
       "title": "Lecture Jos Boys (Dis)ability",
@@ -419,7 +419,7 @@
       ],
       "format": "video",
       "url": "https://www.youtube.com/watch?v=D9STKEmiMe0",
-      "id": 35
+      "id": "0035"
   },
   {
       "title": "Lynn Formesyn: 'Ik mag niet te gezond lijken' ",
@@ -430,7 +430,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/5nTPy0YRMhXMJQB5KjCjBC?si=8517e49993a743e6",
-      "id": 36
+      "id": "0036"
   },
   {
       "title": "Feminism in architecture, then and now - Lecture by Jos Boys",
@@ -443,7 +443,7 @@
       ],
       "format": "video",
       "url": "https://www.youtube.com/watch?v=jwIeTDw-CiI",
-      "id": 37
+      "id": "0037"
   },
   {
       "title": "Matrimony days",
@@ -455,7 +455,7 @@
       ],
       "format": "website",
       "url": "https://www.matrimonydays.be/",
-      "id": 38
+      "id": "0038"
   },
   {
       "title": "Muslim Hoedowns, Tenous Kanguage and the Suspended Lives of the Urban Majority",
@@ -465,20 +465,20 @@
       ],
       "format": "video",
       "url": "https://www.ijurr.org/lecture/2018-aag-lecture-muslim-hoedowns-tenuous-language-and-the-suspended-lives-of-the-urban-majority/",
-      "id": 39
+      "id": "0039"
   },
   {
       "title": "My public island",
       "authors": "Stiftung Freizeit",
       "tags": [
           "publieke ruimte",
+          "gemeenschap",
           "grenzen",
-          "participatie",
-          "gemeenschap"
+          "participatie"
       ],
       "format": "website",
       "url": "http://www.stiftungfreizeit.com/search/label/My%20public%20island",
-      "id": 40
+      "id": "0040"
   },
   {
       "title": "Negotiating secular boundaries: Pious micro-practices of Muslim women in French and German public spheres",
@@ -490,7 +490,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0041.pdf",
-      "id": 41
+      "id": "0041"
   },
   {
       "title": "Of Other Spaces (Vertaling)",
@@ -502,7 +502,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0042.pdf",
-      "id": 42
+      "id": "0042"
   },
   {
       "title": "On Difference: Masculine and Feminine",
@@ -515,7 +515,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0043.pdf",
-      "id": 43
+      "id": "0043"
   },
   {
       "title": "On the Plaza: The Politics of Public Space and Culture (H6)",
@@ -527,7 +527,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0044.pdf",
-      "id": 44
+      "id": "0044"
   },
   {
       "title": "Open Architecture, Rightlessness, and Citizens-to-Come",
@@ -539,7 +539,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0045.pdf",
-      "id": 45
+      "id": "0045"
   },
   {
       "title": "Outrage: the prejudice against queer aesthetics",
@@ -551,7 +551,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0046.pdf",
-      "id": 46
+      "id": "0046"
   },
   {
       "title": "Paola Antonelli and Alice Rawsthorn on design and human rights",
@@ -562,7 +562,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/4OkAE0Sei5agJaH5eUiwv3?si=27ca535ae69e448c",
-      "id": 47
+      "id": "0047"
   },
   {
       "title": "Plaine du jeu du Jardin Botanique",
@@ -570,13 +570,13 @@
       "tags": [
           "publieke ruimte",
           "recreatie",
+          "participatie",
           "inclusieve stad",
-          "gemeenschap",
-          "participatie"
+          "gemeenschap"
       ],
       "format": "website",
       "url": "https://www.suede36.be/nl/content/botanische-tuin-speeltuin",
-      "id": 48
+      "id": "0048"
   },
   {
       "title": "Praktijk",
@@ -589,7 +589,7 @@
       ],
       "format": "website",
       "url": "https://www.elsvervloesem.eu/selectie",
-      "id": 49
+      "id": "0049"
   },
   {
       "title": "Primitive, Original matters in architecture",
@@ -600,7 +600,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:001489286?i=0&q=Primitive%2C+Original+matters+in+architecture",
-      "id": 50
+      "id": "0050"
   },
   {
       "title": "Public Plan Ghent N°1",
@@ -613,7 +613,7 @@
       ],
       "format": "website",
       "url": "https://ellyvaneeghem.be/index.php/2022/04/30/public-plan-ghent-n1/",
-      "id": 51
+      "id": "0051"
   },
   {
       "title": "Public space and private life: blurring the boundaries",
@@ -627,7 +627,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0052.pdf",
-      "id": 52
+      "id": "0052"
   },
   {
       "title": "Queering the map",
@@ -640,7 +640,7 @@
       ],
       "format": "website",
       "url": "https://www.queeringthemap.com/",
-      "id": 53
+      "id": "0053"
   },
   {
       "title": "Race and Modern Architecture",
@@ -652,7 +652,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0054.pdf",
-      "id": 54
+      "id": "0054"
   },
   {
       "title": "Room at the Top? Sexism and the Star System in Architecture",
@@ -666,7 +666,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0055.pdf",
-      "id": 55
+      "id": "0055"
   },
   {
       "title": "Safe Space - a queer practice ",
@@ -678,7 +678,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0056.pdf",
-      "id": 56
+      "id": "0056"
   },
   {
       "title": "Slavery in the City",
@@ -689,7 +689,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:002957125?i=0&q=slavery+in+the+city",
-      "id": 57
+      "id": "0057"
   },
   {
       "title": "Stap per stap door de dekolonisatie: Blandijn",
@@ -703,7 +703,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/2PDPILS0I1dTE1CKnYAx8u?si=a53249f77ebc4e69",
-      "id": 58
+      "id": "0058"
   },
   {
       "title": "Stap per stap door de dekolonisatie: citadelbark ",
@@ -717,7 +717,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/4Zx8QCUQV7H8VIYlKkHjPW?si=06c08a6372784a82",
-      "id": 59
+      "id": "0059"
   },
   {
       "title": "Stap per stap door de dekolonisatie: STAM",
@@ -731,7 +731,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/0qEOujTYtcPqsE4VUsGfAp?si=f0e21f50e8e847f8",
-      "id": 60
+      "id": "0060"
   },
   {
       "title": "Stap per stap door de dekolonisatie: zuidpark",
@@ -745,7 +745,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/4Nl143A14PFLiJTUqqnQXy?si=93d74aaa95344fa6",
-      "id": 61
+      "id": "0061"
   },
   {
       "title": "Stedenbouw en sociale verandering: Leren van vergeten geschiedenissen van stad maken",
@@ -760,7 +760,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0062.pdf",
-      "id": 62
+      "id": "0062"
   },
   {
       "title": "Structural Racialism in Modern Architectural Theory",
@@ -772,7 +772,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0063.pdf",
-      "id": 63
+      "id": "0063"
   },
   {
       "title": "Studio René Boer",
@@ -785,7 +785,7 @@
       ],
       "format": "website",
       "url": "http://www.reneboer.net/index.php?pag=architectureofappropriation",
-      "id": 64
+      "id": "0064"
   },
   {
       "title": "Temporary Pleasure",
@@ -798,7 +798,7 @@
       ],
       "format": "social media",
       "url": "https://www.instagram.com/temporary.pleasure/",
-      "id": 65
+      "id": "0065"
   },
   {
       "title": "The feminist city: city of fear, 'pushing back",
@@ -811,7 +811,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0066.pdf",
-      "id": 66
+      "id": "0066"
   },
   {
       "title": "The future of Amsterdam (Podcast Failed Architecture)",
@@ -823,7 +823,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/4N7fOHA8O8peCnpNHEvXFF?si=4624a7e16e374ed8&nd=1",
-      "id": 67
+      "id": "0067"
   },
   {
       "title": "The Role of Space in Processes of Exclusion and Normalization",
@@ -836,7 +836,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0068.pdf",
-      "id": 68
+      "id": "0068"
   },
   {
       "title": "Turkije aan de Leie : 50 jaar migratie in Gent",
@@ -851,7 +851,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:002082261?i=0&q=turkije+aan+de+leie",
-      "id": 70
+      "id": "0070"
   },
   {
       "title": "Wasteland",
@@ -862,7 +862,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0071.pdf",
-      "id": 71
+      "id": "0071"
   },
   {
       "title": "When Walls Speak",
@@ -875,7 +875,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0072.pdf",
-      "id": 72
+      "id": "0072"
   },
   {
       "title": "Who builds your architecture",
@@ -887,7 +887,7 @@
       ],
       "format": "website",
       "url": "http://whobuilds.org/",
-      "id": 73
+      "id": "0073"
   },
   {
       "title": "Women in Architecture (with Dr Nadia Bertolino and Dr Tara Hipwood)",
@@ -899,7 +899,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/6gIwPagz9AOF7kytRmw4jC?si=05f99bb7c10e4161",
-      "id": 74
+      "id": "0074"
   },
   {
       "title": "Wonderground ",
@@ -911,7 +911,7 @@
       ],
       "format": "website",
       "url": "https://neighbourhoodindex.org/index/7957274c-77e1-4c05-a38e-db22ef77ff25/",
-      "id": 75
+      "id": "0075"
   },
   {
       "title": "Wonen als sleutel tot inclusie",
@@ -923,7 +923,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0076.pdf",
-      "id": 76
+      "id": "0076"
   },
   {
       "title": "Zijn vrouwen ondervertegenwoordigd in de architectuur?",
@@ -935,7 +935,7 @@
       ],
       "format": "podcast",
       "url": "https://open.spotify.com/episode/333JndvKViu3orSs0ZWUZf?si=3ba207146d1643e9",
-      "id": 77
+      "id": "0077"
   },
   {
       "title": "Het kleine ontmoeten",
@@ -948,7 +948,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/en/catalog/rug01:000944731?i=2&q=ruth+soenen",
-      "id": 78
+      "id": "0078"
   },
   {
       "title": "Cohousing zonder community?",
@@ -960,7 +960,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0079.pdf",
-      "id": 79
+      "id": "0079"
   },
   {
       "title": "Hood Century How one Man is redefining Midcentury Modern Architecture",
@@ -970,7 +970,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0080.pdf",
-      "id": 80
+      "id": "0080"
   },
   {
       "title": "“Compartmentalized World”: Race, Architecture, and Colonial Crisis in Kenya and London",
@@ -982,7 +982,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0081.pdf",
-      "id": 81
+      "id": "0081"
   },
   {
       "title": "American Architecture in the Black Antlantic ",
@@ -994,7 +994,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0082.pdf",
-      "id": 82
+      "id": "0082"
   },
   {
       "title": "And Thus Not Glowing Brightly Noah Purifoy's Junk Modernism",
@@ -1006,7 +1006,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0083.pdf",
-      "id": 83
+      "id": "0083"
   },
   {
       "title": "Black and Blight",
@@ -1018,7 +1018,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0084.pdf",
-      "id": 84
+      "id": "0084"
   },
   {
       "title": "Drawing the Color Line",
@@ -1030,7 +1030,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0085.pdf",
-      "id": 85
+      "id": "0085"
   },
   {
       "title": "Erecting the Skyscraper, erasing race",
@@ -1042,7 +1042,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0086.pdf",
-      "id": 86
+      "id": "0086"
   },
   {
       "title": "From \"terrestrial paradise\" to \"dreary waste\"",
@@ -1054,7 +1054,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0087.pdf",
-      "id": 87
+      "id": "0087"
   },
   {
       "title": "Henry Van Brunt and White Settler",
@@ -1066,7 +1066,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0088.pdf",
-      "id": 88
+      "id": "0088"
   },
   {
       "title": "Introduction Race and Modern Architecture",
@@ -1078,7 +1078,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0089.pdf",
-      "id": 89
+      "id": "0089"
   },
   {
       "title": "Modeling Race and Class\nArchitectural Photography and the\nU.S. Gypsum Research Village, 1952–1955",
@@ -1090,7 +1090,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0090.pdf",
-      "id": 90
+      "id": "0090"
   },
   {
       "title": "Modern Architecture and Racial Eugenics at the Esposizione Universale di Roma",
@@ -1102,7 +1102,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0091.pdf",
-      "id": 91
+      "id": "0091"
   },
   {
       "title": "Notes on the Virginia Capitol ",
@@ -1114,7 +1114,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0092.pdf",
-      "id": 92
+      "id": "0092"
   },
   {
       "title": "Race and Miscegenation in Early\nTwentieth-Century\nMexican Architecture",
@@ -1126,7 +1126,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0093.pdf",
-      "id": 93
+      "id": "0093"
   },
   {
       "title": "Race and Tropical Architecture\nThe Climate of Decolonization\nand “Malayanization”",
@@ -1138,7 +1138,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0094.pdf",
-      "id": 94
+      "id": "0094"
   },
   {
       "title": "Style, Race, and a Mosque of the “Òyìnbó\nDúdú” (White-Black)\nin Lagos Colony, 1894",
@@ -1150,7 +1150,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0095.pdf",
-      "id": 95
+      "id": "0095"
   },
   {
       "title": "The \"New Birth of Freedom\"",
@@ -1162,7 +1162,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0096.pdf",
-      "id": 96
+      "id": "0096"
   },
   {
       "title": "The invention of Indigenous Architecture",
@@ -1174,7 +1174,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0097.pdf",
-      "id": 97
+      "id": "0097"
   },
   {
       "title": "Subaltern Architectures: Can Drawing “tell” a Different Story?",
@@ -1185,7 +1185,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0098.pdf",
-      "id": 98
+      "id": "0098"
   },
   {
       "title": "The cultures of cities: whose culture? whose city?",
@@ -1195,7 +1195,7 @@
       ],
       "format": "pdf",
       "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0099.pdf",
-      "id": 99
+      "id": "0099"
   },
   {
       "title": "the slightest attachment",
@@ -1206,7 +1206,7 @@
       ],
       "format": "website",
       "url": "https://www.transcript-publishing.com/978-3-8376-6556-7/the-slightest-attachment/",
-      "id": 100
+      "id": "0100"
   },
   {
       "title": "Spatial Agency",
@@ -1217,7 +1217,7 @@
       ],
       "format": "website",
       "url": "https://www.spatialagency.net/",
-      "id": 101
+      "id": "0101"
   },
   {
       "title": "Rabot 4-358",
@@ -1229,7 +1229,7 @@
       ],
       "format": "boek",
       "url": "https://lib.ugent.be/nl/catalog/rug01:002177917",
-      "id": 102
+      "id": "0102"
   },
   {
       "title": "Rabot 4-358, lecture KASK & Conservatorium",
@@ -1241,7 +1241,7 @@
       ],
       "format": "video",
       "url": "https://vimeo.com/122626791?signup=true",
-      "id": 103
+      "id": "0103"
   },
   {
       "title": "Het Gevoelig Lexicon",
@@ -1256,7 +1256,7 @@
       ],
       "format": "website",
       "url": "https://www.standaard.be/gevoelig-lexicon",
-      "id": 104
+      "id": "0104"
   },
   {
       "title": "Zeg ik het goed?",
@@ -1271,7 +1271,7 @@
       ],
       "format": "website",
       "url": "https://www.ugent.be/nl/univgent/missie/diversiteit-en-inclusie/voor-de-ugent-community/inclusievecommunicatie/woordkeuze",
-      "id": 105
+      "id": "0105"
   },
   {
       "title": "STAMplein: De vierkante kilometer - Rabot",
@@ -1284,6 +1284,6 @@
       ],
       "format": "tentoonstelling",
       "url": "https://stamgent.be/nl_be/evenementen/stamplein-de-vierkante-kilometer-rabot",
-      "id": 106
+      "id": "0106"
   }
 ]

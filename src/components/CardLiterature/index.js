@@ -1,6 +1,6 @@
 import { React, useState } from "react";
 import { useSetRecoilState } from "recoil";
-import { tagSelect } from "../../atoms";
+import { tagSelect, formatSelect } from "../../atoms";
 
 // Material ui Imports
 import {
@@ -37,10 +37,15 @@ export default function CardLiterature(props) {
   const [expanded, setExpanded] = useState(false);
   const [preview, setPreview] = useState(false);
   const setTag = useSetRecoilState(tagSelect);
+  const setFormat = useSetRecoilState(formatSelect)
 
-  const handleClick = (tag) => {
+  const handleTagClick = (tag) => {
     setTag(tag)
     setExpanded(false)
+  };
+
+  const handleFormatClick = () => {
+    setFormat(props.format)
   };
 
   const handleExpandClick = () => {
@@ -83,7 +88,7 @@ export default function CardLiterature(props) {
           >
             <CardMedia
               sx={{ height: 300 }}
-              image={`https://raw.githubusercontent.com/Jokerweek/database/main/image/00${props.id}.png`}
+              image={`https://raw.githubusercontent.com/Jokerweek/database/main/image/${props.id}.png`}
               title="logo"
             />
             <CardContent>
@@ -114,6 +119,12 @@ export default function CardLiterature(props) {
             </CardContent>
           </CardActionArea>
           <CardActions>
+            <Chip
+              label={props.format}
+              clickable
+              sx={{ margin: "6px" }}
+              onClick={handleFormatClick}
+            />
             <ExpandMore
               expand={expanded}
               onClick={handleExpandClick}
@@ -133,7 +144,7 @@ export default function CardLiterature(props) {
                     clickable
                     variant="outlined"
                     sx={{ margin: "3px" }}
-                    onClick={() => handleClick(element)}
+                    onClick={() => handleTagClick(element)}
                   />
                 ) 
               })}
