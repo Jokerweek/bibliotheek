@@ -8,8 +8,8 @@ export const useGetBib = (file) => {
     async function fetchData(e) {
       const data = await fetch(file);
       const body = await data.json();
-      setBib(body.bibliotheek);
-      body.bibliotheek.forEach(element => {
+      setBib(body);
+      body.forEach(element => {
         element.tags.forEach(element2 => {
           setTags((m) => [...new Set([...m, element2])])
         });

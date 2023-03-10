@@ -14,6 +14,10 @@ export default function Literature() {
   const { bib, tags } = useGetBib('bib.json')
   const [tag, setTag] = useRecoilState(tagSelect);
 
+  tags.sort().forEach(element => {
+    console.log(element)
+  });
+
   const handleClear = () => {
     setTag("")
   }

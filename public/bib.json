@@ -1,1251 +1,1289 @@
-{
-  "bibliotheek": [
-    {
-        "title": "17 mouvements",
-        "authors": "Decoratelier",
-        "tags": [
-            "inclusie",
-            "publieke ruimte",
-            "sport",
-            "bewegingen",
-            "common ground",
-            "participatie"
-        ],
-        "pdf": false,
-        "url": "https://nuitblanche.brussels/nl/activity/17-mouvements/",
-        "id": 1
-    },
-    {
-        "title": "A Conversation on the discomfort of Feminist Design Pedagogy",
-        "authors": "Griselde Fresler, Anja Neidhardt, Maya Ober",
-        "tags": [
-            "onderwijs",
-            "feminisme",
-            "ontwerp"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0002.pdf",
-        "id": 2
-    },
-    {
-        "title": "A fence and a ladder: subversive acts of everyday urbanism at home",
-        "authors": "Stephanie Davidson",
-        "tags": [
-            "prive vs collectief",
-            "gemeenschap",
-            "grenzen",
-            "wonen",
-            "common ground"
-        ],
-        "pdf": false,
-        "url": "https://neighbourhoodindex.org/index/243e0b58-abbc-4e12-bbbe-49749d814900/",
-        "id": 3
-    },
-    {
-        "title": "Altering Practices ",
-        "authors": "Doina Petrescu",
-        "tags": [
-            "feminisme"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0004.pdf",
-        "id": 4
-    },
-    {
-        "title": "Architect is nog steeds een erg 'wit' beroep. Hoe zorgen we voor meer diversiteit?",
-        "authors": "Wided Bouchrika",
-        "tags": [
-            "architectuurpraktijk",
-            "representatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0005.pdf",
-        "id": 5
-    },
-    {
-        "title": "Architecture from without: Body, Logic and Sex",
-        "authors": "Diana Agrest",
-        "tags": [
-            "gender",
-            "exclusie",
-            "geschiedenis"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0006.pdf",
-        "id": 6
-    },
-    {
-        "title": "Architecture of Appropriation",
-        "authors": "René Boer",
-        "tags": [
-            "ongelijkheid",
-            "gemeenschap",
-            "beleid",
-            "solidariteit"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0007.pdf",
-        "id": 7
-    },
-    {
-        "title": "Bad Press ",
-        "authors": "Elizabeth Diller",
-        "tags": [
-            "erfgoed",
-            "onderwijs",
-            "dekolonisatie",
-            "geschiedenis",
-            "taal"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0008.pdf",
-        "id": 8
-    },
-    {
-        "title": "Behind straight curtains: towards a queer feminist theory of architecture",
-        "authors": "Katarina Bonnevier",
-        "tags": [
-            "feminisme",
-            "queer",
-            "ongelijkheid",
-            "wonen",
-            "huis"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0009.pdf",
-        "id": 9
-    },
-    {
-        "title": "Being imposed upon",
-        "authors": "Joëlle Sambi Nzeba, Olave Nduwanje, Emmanuelle Nsunda, e.a.",
-        "tags": [
-            "racisme",
-            "feminisme",
-            "dekolonisatie"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:002983772?i=0&q=being+imposed+upon",
-        "id": 10
-    },
-    {
-        "title": "Being-in relation and reinventing the commons ",
-        "authors": "Doina Petrescu",
-        "tags": [
-            "feminisme",
-            "participatie",
-            "commons",
-            "burgerschap"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0011.pdf",
-        "id": 11
-    },
-    {
-        "title": "Building Character, The Racial Politics of Modern Architecture",
-        "authors": "Charles L. Davis",
-        "tags": [
-            "geschiedenis",
-            "racisme",
-            "samenleving"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:002798786?i=0&q=Building+Character%2C+The+Racial+Politics+of+Modern+Architecture",
-        "id": 12
-    },
-    {
-        "title": "BWMST Label - Ruimte voor diversiteit",
-        "authors": "51N4E",
-        "tags": [
-            "publieke ruimte",
-            "antropologie",
-            "urbanisme"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0013.pdf",
-        "id": 13
-    },
-    {
-        "title": "Can the immigrant speak?",
-        "authors": "Esra Akcan",
-        "tags": [
-            "wonen",
-            "gemeenschap",
-            "migratie",
-            "ongelijkheid",
-            "participatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0014.pdf",
-        "id": 14
-    },
-    {
-        "title": "Choosing the Margin as a\nSpace of Radical Openness",
-        "authors": "Bell Hooks",
-        "tags": [
-            "feminisme",
-            "radicale openheid"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0015.pdf",
-        "id": 15
-    },
-    {
-        "title": "Colonialism and Modern Architecture in Germany",
-        "authors": "Itohan Osayimwese",
-        "tags": [
-            "geschiedenis",
-            "kolonisatie"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:002366538?i=1&q=Colonialism+and+Modern+Architecture+in+Germany",
-        "id": 16
-    },
-    {
-        "title": "Common places",
-        "authors": "Dell Upton",
-        "tags": [
-            "racisme",
-            "geschiedenis"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:002855776?i=2&q=common+places",
-        "id": 17
-    },
-    {
-        "title": "Curb cuts",
-        "authors": "99% invisible",
-        "tags": [
-            "beperking",
-            "inclusie",
-            "inclusieve stad",
-            "ontwerp",
-            "toegankelijkheid"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/2DKkoQiEsac06MGiKY96P2?si=79039d0fc19f4ab7",
-        "id": 18
-    },
-    {
-        "title": "Dekoloniseer het kunstonderwijs",
-        "authors": "Rekto Verso",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "kolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0019.pdf",
-        "id": 19
-    },
-    {
-        "title": "Design is Political: White Supremacy and Landscape Urbanism",
-        "authors": "Jennifer Low",
-        "tags": [
-            "urbanisme",
-            "landschap",
-            "ontwerp",
-            "racisme"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0020.pdf",
-        "id": 20
-    },
-    {
-        "title": "Digital activism, woman architects and Pritzker Prize",
-        "authors": "Failed Architecture",
-        "tags": [
-            "feminisme",
-            "architectuurwedstrijd",
-            "discriminatie"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/3V1VpUrijy74x8mBgXHIIH?si=cb448b0a1e914523&nd=1",
-        "id": 21
-    },
-    {
-        "title": "Doing Dysability Differently",
-        "authors": "Jos Boys",
-        "tags": [
-            "beperking",
-            "toegankelijkheid",
-            "ontwerp"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0022.pdf",
-        "id": 22
-    },
-    {
-        "title": "Epistemic Justice in the Design Process",
-        "authors": "Luce Beeckmans",
-        "tags": [
-            "democratie",
-            "ongelijkheid",
-            "dekolonisatie",
-            "representatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0023.pdf",
-        "id": 23
-    },
-    {
-        "title": "Ethos",
-        "authors": "Chris Bremmers",
-        "tags": [
-            "zorg",
-            "onzichtbare zorg ",
-            "wonen"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0024.pdf",
-        "id": 24
-    },
-    {
-        "title": "Failed Architecture",
-        "authors": "Failed Architecture",
-        "tags": [
-            "queer",
-            "urbanisme",
-            "klimaat"
-        ],
-        "pdf": false,
-        "url": "https://failedarchitecture.com/",
-        "id": 25
-    },
-    {
-        "title": "Fences and Between Fences: Cultural, Historical, and Smithsonian Perspectives",
-        "authors": "Robbie Davis and Ed Williams",
-        "tags": [
-            "prive vs collectief",
-            "gemeenschap",
-            "grenzen"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0026.pdf",
-        "id": 26
-    },
-    {
-        "title": "Hegemony, radical democracy, and the political",
-        "authors": "Chantal Mouffe",
-        "tags": [
-            "democratie",
-            "ongelijkheid",
-            "socialisme"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0027.pdf",
-        "id": 27
-    },
-    {
-        "title": "Making Space: Women and the Man-Made Environment",
-        "authors": "Matrix",
-        "tags": [
-            "feminisme",
-            "urbanisme",
-            "publieke ruimte",
-            "gender"
-        ],
-        "pdf": false,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0028.pdf",
-        "id": 28
-    },
-    {
-        "title": "Hoe ga je om met genderstereotyperingen en seksisme op de werf? ",
-        "authors": "Emilie Lachaert",
-        "tags": [
-            "seksisme",
-            "architectuurpraktijk"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0029.pdf",
-        "id": 29
-    },
-    {
-        "title": "Homeplace: A Site of Resistance",
-        "authors": "Bell Hooks",
-        "tags": [
-            "huis",
-            "racisme",
-            "feminisme"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0030.pdf",
-        "id": 30
-    },
-    {
-        "title": "How to build a club: a talk with rave architecture collective Temporary Pleasure",
-        "authors": "Minimal collective",
-        "tags": [
-            "nachtleven",
-            "temporary architecture",
-            "social architecture",
-            "participatie",
-            "ontwerp",
-            "queer"
-        ],
-        "pdf": false,
-        "url": "https://www.minimalcollective.digital/editorial/how-to-build-a-club",
-        "id": 31
-    },
-    {
-        "title": "In een vrouwelijke stad voelen ook mannen zich thuis",
-        "authors": "DS Vandaag",
-        "tags": [
-            "urbanisme",
-            "publieke Ruimte",
-            "inclusieve stad",
-            "feminisme"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/7jELdazuEiPIFAMhINCa6b?si=2749a90d2c234347&nd=1",
-        "id": 32
-    },
-    {
-        "title": "Including universal design in engineering courses to attract diverse students",
-        "authors": "Brianna Blaser",
-        "tags": [
-            "representatie",
-            "beperking",
-            "architectuurschool"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0033.pdf",
-        "id": 33
-    },
-    {
-        "title": "Invisible women in invisible places: Lesbians, Lesbian Bars, and the Social Production of People/Environment Relationships",
-        "authors": "Maxine Wolfe",
-        "tags": [
-            "queer",
-            "publieke ruimte",
-            "privaat",
-            "comfort",
-            "nachtleven"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0034.pdf",
-        "id": 34
-    },
-    {
-        "title": "Lecture Jos Boys (Dis)ability",
-        "authors": "Jos Boys",
-        "tags": [
-            "beperking",
-            "toegankelijkheid",
-            "ontwerp"
-        ],
-        "pdf": false,
-        "url": "https://www.youtube.com/watch?v=D9STKEmiMe0",
-        "id": 35
-    },
-    {
-        "title": "Lynn Formesyn: 'Ik mag niet te gezond lijken' ",
-        "authors": "Zwijgen is geen optie",
-        "tags": [
-            "beperking",
-            "inclusie",
-            "toegankelijkheid"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/5nTPy0YRMhXMJQB5KjCjBC?si=8517e49993a743e6",
-        "id": 36
-    },
-    {
-        "title": "Feminism in architecture, then and now - Lecture by Jos Boys",
-        "authors": "Jos Boys",
-        "tags": [
-            "feminisme",
-            "urbanisme",
-            "publieke ruimte",
-            "gender"
-        ],
-        "pdf": false,
-        "url": "https://www.youtube.com/watch?v=jwIeTDw-CiI",
-        "id": 37
-    },
-    {
-        "title": "Matrimony days",
-        "authors": "Apoline Vranken",
-        "tags": [
-            "geschiedenis",
-            "feminisme",
-            "erfgoed"
-        ],
-        "pdf": false,
-        "url": "https://www.matrimonydays.be/",
-        "id": 38
-    },
-    {
-        "title": "Muslim Hoedowns, Tenous Kanguage and the Suspended Lives of the Urban Majority",
-        "authors": "Abdou Malik Simone",
-        "tags": [
-            "religie"
-        ],
-        "pdf": false,
-        "url": "https://www.ijurr.org/lecture/2018-aag-lecture-muslim-hoedowns-tenuous-language-and-the-suspended-lives-of-the-urban-majority/",
-        "id": 39
-    },
-    {
-        "title": "My public island",
-        "authors": "Stiftung Freizeit",
-        "tags": [
-            "publieke ruimte",
-            "kunst",
-            "grenzen",
-            "participatie",
-            "common ground"
-        ],
-        "pdf": false,
-        "url": "http://www.stiftungfreizeit.com/search/label/My%20public%20island",
-        "id": 40
-    },
-    {
-        "title": "Negotiating secular boundaries: Pious micro-practices of Muslim women in French and German public spheres",
-        "authors": "Jeanette S. Jouili",
-        "tags": [
-            "religie",
-            "publieke ruimte",
-            "ongelijkheid",
-            "discriminatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0041.pdf",
-        "id": 41
-    },
-    {
-        "title": "Of Other Spaces (Vertaling)",
-        "authors": "Michel Foucault",
-        "tags": [
-            "urbanisme",
-            "normen",
-            "heterotopia",
-            "publieke ruimte"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0042.pdf",
-        "id": 42
-    },
-    {
-        "title": "On Difference: Masculine and Feminine",
-        "authors": "Adrian Forty ",
-        "tags": [
-            "gender",
-            "ontwerp",
-            "architectuurtheorie",
-            "taal",
-            "modernisme"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0043.pdf",
-        "id": 43
-    },
-    {
-        "title": "On the Plaza: The Politics of Public Space and Culture (H6)",
-        "authors": "Setha Low",
-        "tags": [
-            "urbanisme",
-            "publieke ruimte",
-            "gemeenschap"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0044.pdf",
-        "id": 44
-    },
-    {
-        "title": "Open Architecture, Rightlessness, and Citizens-to-Come",
-        "authors": "Esra Akcan",
-        "tags": [
-            "racisme",
-            "antisemitisme",
-            "burgerschap",
-            "mensenrechten"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0045.pdf",
-        "id": 45
-    },
-    {
-        "title": "Outrage: the prejudice against queer aesthetics",
-        "authors": "Adam Nathaniel Furman",
-        "tags": [
-            "queer",
-            "inclusieve stad ",
-            "representatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0046.pdf",
-        "id": 46
-    },
-    {
-        "title": "Paola Antonelli and Alice Rawsthorn on design and human rights",
-        "authors": "Design Emergency",
-        "tags": [
-            "mensenrechten",
-            "ontwerp",
-            "ongelijkheid"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/4OkAE0Sei5agJaH5eUiwv3?si=27ca535ae69e448c",
-        "id": 47
-    },
-    {
-        "title": "Plaine du jeu du Jardin Botanique",
-        "authors": "Suede 36",
-        "tags": [
-            "publieke ruimte",
-            "speeltuin",
-            "bewegingen",
-            "inclusieve stad",
-            "gemeenschap",
-            "participatie"
-        ],
-        "pdf": false,
-        "url": "https://www.suede36.be/nl/content/botanische-tuin-speeltuin",
-        "id": 48
-    },
-    {
-        "title": "Praktijk",
-        "authors": "Els Vervloesem",
-        "tags": [
-            "gemeenschap",
-            "urbanisme",
-            "inclusieve stad",
-            "sociale architectuur"
-        ],
-        "pdf": false,
-        "url": "https://www.elsvervloesem.eu/selectie",
-        "id": 49
-    },
-    {
-        "title": "Primitive, Original matters in architecture",
-        "authors": "Jo Odgers, Flora Samuel, dam Sharr",
-        "tags": [
-            "architectuurtheorie",
-            "psychologie"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:001489286?i=0&q=Primitive%2C+Original+matters+in+architecture",
-        "id": 50
-    },
-    {
-        "title": "Public Plan Ghent N°1",
-        "authors": "Elly Van Eeghem",
-        "tags": [
-            "kaart",
-            "gent",
-            "inclusieve stad",
-            "kunst",
-            "publieke ruimte"
-        ],
-        "pdf": false,
-        "url": "https://ellyvaneeghem.be/index.php/2022/04/30/public-plan-ghent-n1/",
-        "id": 51
-    },
-    {
-        "title": "Public space and private life: blurring the boundaries",
-        "authors": "Margaret Crawford",
-        "tags": [
-            "prive vs collectief",
-            "democratie",
-            "grenzen",
-            "publieke ruimte",
-            "common ground"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0052.pdf",
-        "id": 52
-    },
-    {
-        "title": "Queering the map",
-        "authors": "Queering the map",
-        "tags": [
-            "queer",
-            "kaart",
-            "urbanisme",
-            "representatie"
-        ],
-        "pdf": false,
-        "url": "https://www.queeringthemap.com/",
-        "id": 53
-    },
-    {
-        "title": "Race and Modern Architecture",
-        "authors": "Irene Cheng, Charles L. Davis II, Mabel O. Wilson",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0054.pdf",
-        "id": 54
-    },
-    {
-        "title": "Room at the Top? Sexism and the Star System in Architecture",
-        "authors": "Denise Scott Brown",
-        "tags": [
-            "feminisme",
-            "representatie",
-            "architectuurpraktijk",
-            "gender",
-            "discriminatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0055.pdf",
-        "id": 55
-    },
-    {
-        "title": "Safe Space - a queer practice ",
-        "authors": "Safe Space Collective",
-        "tags": [
-            "queer",
-            "normen",
-            "representatie",
-            "comfort"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0056.pdf",
-        "id": 56
-    },
-    {
-        "title": "Slavery in the City",
-        "authors": "Ellis Ginsburg, Rebecca Ginsburg",
-        "tags": [
-            "racisme",
-            "geschiedenis"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:002957125?i=0&q=slavery+in+the+city",
-        "id": 57
-    },
-    {
-        "title": "Stap per stap door de dekolonisatie: Blandijn",
-        "authors": "Michael Meeuwis, UNYA",
-        "tags": [
-            "erfgoed",
-            "onderwijs",
-            "dekolonisatie",
-            "geschiedenis",
-            "taal"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/2PDPILS0I1dTE1CKnYAx8u?si=a53249f77ebc4e69",
-        "id": 58
-    },
-    {
-        "title": "Stap per stap door de dekolonisatie: citadelbark ",
-        "authors": "Robrecht Declercq, UNYA",
-        "tags": [
-            "erfgoed",
-            "onderwijs",
-            "dekolonisatie",
-            "geschiedenis",
-            "taal"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/4Zx8QCUQV7H8VIYlKkHjPW?si=06c08a6372784a82",
-        "id": 59
-    },
-    {
-        "title": "Stap per stap door de dekolonisatie: STAM",
-        "authors": "Annelies Verdoolaege, UNYA",
-        "tags": [
-            "erfgoed",
-            "onderwijs",
-            "dekolonisatie",
-            "geschiedenis",
-            "taal"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/0qEOujTYtcPqsE4VUsGfAp?si=f0e21f50e8e847f8",
-        "id": 60
-    },
-    {
-        "title": "Stap per stap door de dekolonisatie: zuidpark",
-        "authors": "Stef Craps, UNYA",
-        "tags": [
-            "erfgoed",
-            "onderwijs",
-            "dekolonisatie",
-            "geschiedenis",
-            "taal"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/4Nl143A14PFLiJTUqqnQXy?si=93d74aaa95344fa6",
-        "id": 61
-    },
-    {
-        "title": "Stedenbouw en sociale verandering: Leren van vergeten geschiedenissen van stad maken",
-        "authors": "Els Vervloesem",
-        "tags": [
-            "urbanisme",
-            "migratie",
-            "geschiedenis",
-            "wonen",
-            "ongelijkheid",
-            "discriminatie",
-            "gastarbeid"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0062.pdf",
-        "id": 62
-    },
-    {
-        "title": "Structural Racialism in Modern Architectural Theory",
-        "authors": "Irene Cheng",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "architectuurtheorie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0063.pdf",
-        "id": 63
-    },
-    {
-        "title": "Studio René Boer",
-        "authors": "René Boer",
-        "tags": [
-            "democratie",
-            "ongelijkheid",
-            "queer",
-            "urbanisme",
-            "kunst",
-            "commons"
-        ],
-        "pdf": false,
-        "url": "http://www.reneboer.net/index.php?pag=architectureofappropriation",
-        "id": 64
-    },
-    {
-        "title": "Temporary Pleasure",
-        "authors": "Temporary Pleasure",
-        "tags": [
-            "nachtleven",
-            "temporary architecture",
-            "social architecture",
-            "participatie",
-            "ontwerp"
-        ],
-        "pdf": false,
-        "url": "https://www.instagram.com/temporary.pleasure/",
-        "id": 65
-    },
-    {
-        "title": "The feminist city: city of fear, 'pushing back",
-        "authors": "Leslie Kern",
-        "tags": [
-            "feminisme",
-            "ontwerp",
-            "urbanisme",
-            "toegankelijkheid"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0066.pdf",
-        "id": 66
-    },
-    {
-        "title": "The future of Amsterdam (Podcast Failed Architecture)",
-        "authors": "Failed Architecture",
-        "tags": [
-            "sekswerkers",
-            "ongelijkheid",
-            "publieke ruimte"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/4N7fOHA8O8peCnpNHEvXFF?si=4624a7e16e374ed8&nd=1",
-        "id": 67
-    },
-    {
-        "title": "The Role of Space in Processes of Exclusion and Normalization",
-        "authors": "Bruno de Meulder, Hilde Heynen",
-        "tags": [
-            "exclusie",
-            "urbanisme",
-            "wonen",
-            "normen"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0068.pdf",
-        "id": 68
-    },
-    {
-        "title": "Turkije aan de Leie : 50 jaar migratie in Gent",
-        "authors": "Tina De Gendt",
-        "tags": [
-            "migratie",
-            "wonen",
-            "inclusieve stad",
-            "gent",
-            "geschiedenis",
-            "gastarbeid"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:002082261?i=0&q=turkije+aan+de+leie",
-        "id": 70
-    },
-    {
-        "title": "Wasteland",
-        "authors": "Wim Cuyvers",
-        "tags": [
-            "publieke ruimte",
-            "privaat",
-            "publiekheid"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0071.pdf",
-        "id": 71
-    },
-    {
-        "title": "When Walls Speak",
-        "authors": "Girls like us ",
-        "tags": [
-            "nachtleven",
-            "queer",
-            "feminisme",
-            "inclusieve stad"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0072.pdf",
-        "id": 72
-    },
-    {
-        "title": "Who builds your architecture",
-        "authors": "Mabel O Wilson",
-        "tags": [
-            "discriminatie",
-            "geschiedenis",
-            "globalisme",
-            "ongelijkheid",
-            "arbeid"
-        ],
-        "pdf": false,
-        "url": "http://whobuilds.org/",
-        "id": 73
-    },
-    {
-        "title": "Women in Architecture (with Dr Nadia Bertolino and Dr Tara Hipwood)",
-        "authors": "Archipod",
-        "tags": [
-            "architectuurpraktijk",
-            "gender",
-            "feminisme",
-            "ongelijkheid"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/6gIwPagz9AOF7kytRmw4jC?si=05f99bb7c10e4161",
-        "id": 74
-    },
-    {
-        "title": "Wonderground ",
-        "authors": "Julian Hallen Eriksen",
-        "tags": [
-            "publieke ruimte",
-            "speeltuin",
-            "gemeenschap"
-        ],
-        "pdf": false,
-        "url": "https://neighbourhoodindex.org/index/7957274c-77e1-4c05-a38e-db22ef77ff25/",
-        "id": 75
-    },
-    {
-        "title": "Wonen als sleutel tot inclusie",
-        "authors": "Vluchtelingenwerk Vlaanderen",
-        "tags": [
-            "migratie",
-            "wonen",
-            "gemeenschap"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0076.pdf",
-        "id": 76
-    },
-    {
-        "title": "Zijn vrouwen ondervertegenwoordigd in de architectuur?",
-        "authors": "Architectura Podcast ",
-        "tags": [
-            "architectuurpraktijk",
-            "gender",
-            "feminisme",
-            "ongelijkheid"
-        ],
-        "pdf": false,
-        "url": "https://open.spotify.com/episode/333JndvKViu3orSs0ZWUZf?si=3ba207146d1643e9",
-        "id": 77
-    },
-    {
-        "title": "Het kleine ontmoeten",
-        "authors": "Ruth Soenen",
-        "tags": [
-            "publieke ruimte",
-            "antropologie",
-            "urbanisme",
-            "participatie"
-        ],
-        "pdf": false,
-        "url": "https://lib.ugent.be/en/catalog/rug01:000944731?i=2&q=ruth+soenen",
-        "id": 78
-    },
-    {
-        "title": "Cohousing zonder community?",
-        "authors": "Ruth Soenen",
-        "tags": [
-            "gemeenschap",
-            "prive vs collectief",
-            "wonen"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0079.pdf",
-        "id": 79
-    },
-    {
-        "title": "Hood Century How one Man is redefining Midcentury Modern Architecture",
-        "authors": "Matt Shaw",
-        "tags": [
-            "geschiedenis"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0080.pdf",
-        "id": 80
-    },
-    {
-        "title": "“Compartmentalized World”: Race, Architecture, and Colonial Crisis in Kenya and London",
-        "authors": "Mark Crinson",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0081.pdf",
-        "id": 81
-    },
-    {
-        "title": "American Architecture in the Black Antlantic ",
-        "authors": "Peter Minosh",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0082.pdf",
-        "id": 82
-    },
-    {
-        "title": "And Thus Not Glowing Brightly Noah Purifoy's Junk Modernism",
-        "authors": "Lisa Uddin ",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0083.pdf",
-        "id": 83
-    },
-    {
-        "title": "Black and Blight",
-        "authors": "Andrew Herscher",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0084.pdf",
-        "id": 84
-    },
-    {
-        "title": "Drawing the Color Line",
-        "authors": "Reinhold Martin",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0085.pdf",
-        "id": 85
-    },
-    {
-        "title": "Erecting the Skyscraper, erasing race",
-        "authors": "Adrienne Brown ",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0086.pdf",
-        "id": 86
-    },
-    {
-        "title": "From \"terrestrial paradise\" to \"dreary waste\"",
-        "authors": "addison Godel",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0087.pdf",
-        "id": 87
-    },
-    {
-        "title": "Henry Van Brunt and White Settler",
-        "authors": "Charles L Davis",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0088.pdf",
-        "id": 88
-    },
-    {
-        "title": "Introduction Race and Modern Architecture",
-        "authors": "",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0089.pdf",
-        "id": 89
-    },
-    {
-        "title": "Modeling Race and Class\nArchitectural Photography and the\nU.S. Gypsum Research Village, 1952–1955",
-        "authors": "Dianne Harris",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0090.pdf",
-        "id": 90
-    },
-    {
-        "title": "Modern Architecture and Racial Eugenics at the Esposizione Universale di Roma",
-        "authors": "Brian L. McLaren",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0091.pdf",
-        "id": 91
-    },
-    {
-        "title": "Notes on the Virginia Capitol ",
-        "authors": "Mabel O. Wilson",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0092.pdf",
-        "id": 92
-    },
-    {
-        "title": "Race and Miscegenation in Early\nTwentieth-Century\nMexican Architecture",
-        "authors": "Luis E. Carranza",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0093.pdf",
-        "id": 93
-    },
-    {
-        "title": "Race and Tropical Architecture\nThe Climate of Decolonization\nand “Malayanization”",
-        "authors": "Jiat-Hwee Chang",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0094.pdf",
-        "id": 94
-    },
-    {
-        "title": "Style, Race, and a Mosque of the “Òyìnbó\nDúdú” (White-Black)\nin Lagos Colony, 1894",
-        "authors": "Adedoyin Teriba",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0095.pdf",
-        "id": 95
-    },
-    {
-        "title": "The \"New Birth of Freedom\"",
-        "authors": "Joanna Merwood-Salisbury",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0096.pdf",
-        "id": 96
-    },
-    {
-        "title": "The invention of Indigenous Architecture",
-        "authors": "Kenny Cupers",
-        "tags": [
-            "racisme",
-            "geschiedenis",
-            "ras",
-            "ongelijkheid",
-            "dekolonisatie"
-        ],
-        "pdf": true,
-        "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0097.pdf",
-        "id": 97
-    }
+[
+  {
+      "title": "17 mouvements",
+      "authors": "Decoratelier",
+      "tags": [
+          "publieke ruimte",
+          "recreatie",
+          "gemeenschap",
+          "participatie"
+      ],
+      "format": "website",
+      "url": "https://nuitblanche.brussels/nl/activity/17-mouvements/",
+      "id": 1
+  },
+  {
+      "title": "A Conversation on the discomfort of Feminist Design Pedagogy",
+      "authors": "Griselde Fresler, Anja Neidhardt, Maya Ober",
+      "tags": [
+          "onderwijs",
+          "feminisme",
+          "ontwerp"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0002.pdf",
+      "id": 2
+  },
+  {
+      "title": "A fence and a ladder: subversive acts of everyday urbanism at home",
+      "authors": "Stephanie Davidson",
+      "tags": [
+          "privacy",
+          "gemeenschap",
+          "grenzen",
+          "wonen"
+      ],
+      "format": "website",
+      "url": "https://neighbourhoodindex.org/index/243e0b58-abbc-4e12-bbbe-49749d814900/",
+      "id": 3
+  },
+  {
+      "title": "Altering Practices ",
+      "authors": "Doina Petrescu",
+      "tags": [
+          "feminisme"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0004.pdf",
+      "id": 4
+  },
+  {
+      "title": "Architect is nog steeds een erg 'wit' beroep. Hoe zorgen we voor meer diversiteit?",
+      "authors": "Wided Bouchrika",
+      "tags": [
+          "architectuurpraktijk",
+          "representatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0005.pdf",
+      "id": 5
+  },
+  {
+      "title": "Architecture from without: Body, Logic and Sex",
+      "authors": "Diana Agrest",
+      "tags": [
+          "gender",
+          "discriminatie",
+          "geschiedenis"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0006.pdf",
+      "id": 6
+  },
+  {
+      "title": "Architecture of Appropriation",
+      "authors": "René Boer",
+      "tags": [
+          "gemeenschap",
+          "beleid"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0007.pdf",
+      "id": 7
+  },
+  {
+      "title": "Bad Press ",
+      "authors": "Elizabeth Diller",
+      "tags": [
+          "erfgoed",
+          "onderwijs",
+          "dekolonisatie",
+          "geschiedenis",
+          "taal"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0008.pdf",
+      "id": 8
+  },
+  {
+      "title": "Behind straight curtains: towards a queer feminist theory of architecture",
+      "authors": "Katarina Bonnevier",
+      "tags": [
+          "feminisme",
+          "queer",
+          "wonen"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0009.pdf",
+      "id": 9
+  },
+  {
+      "title": "Being imposed upon",
+      "authors": "Joëlle Sambi Nzeba, Olave Nduwanje, Emmanuelle Nsunda, e.a.",
+      "tags": [
+          "racisme",
+          "feminisme",
+          "dekolonisatie"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:002983772?i=0&q=being+imposed+upon",
+      "id": 10
+  },
+  {
+      "title": "Being-in relation and reinventing the commons ",
+      "authors": "Doina Petrescu",
+      "tags": [
+          "feminisme",
+          "participatie",
+          "gemeenschap",
+          "burgerschap"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0011.pdf",
+      "id": 11
+  },
+  {
+      "title": "Building Character, The Racial Politics of Modern Architecture",
+      "authors": "Charles L. Davis",
+      "tags": [
+          "geschiedenis",
+          "racisme"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:002798786?i=0&q=Building+Character%2C+The+Racial+Politics+of+Modern+Architecture",
+      "id": 12
+  },
+  {
+      "title": "BWMST Label - Ruimte voor diversiteit",
+      "authors": "51N4E",
+      "tags": [
+          "publieke ruimte",
+          "antropologie",
+          "urbanisme"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0013.pdf",
+      "id": 13
+  },
+  {
+      "title": "Can the immigrant speak?",
+      "authors": "Esra Akcan",
+      "tags": [
+          "wonen",
+          "gemeenschap",
+          "migratie",
+          "participatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0014.pdf",
+      "id": 14
+  },
+  {
+      "title": "Choosing the Margin as a\nSpace of Radical Openness",
+      "authors": "Bell Hooks",
+      "tags": [
+          "feminisme",
+          "grenzen"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0015.pdf",
+      "id": 15
+  },
+  {
+      "title": "Colonialism and Modern Architecture in Germany",
+      "authors": "Itohan Osayimwese",
+      "tags": [
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:002366538?i=1&q=Colonialism+and+Modern+Architecture+in+Germany",
+      "id": 16
+  },
+  {
+      "title": "Common places",
+      "authors": "Dell Upton",
+      "tags": [
+          "racisme",
+          "geschiedenis"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:002855776?i=2&q=common+places",
+      "id": 17
+  },
+  {
+      "title": "Curb cuts",
+      "authors": "99% invisible",
+      "tags": [
+          "beperking",
+          "inclusieve stad",
+          "ontwerp",
+          "toegankelijkheid"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/2DKkoQiEsac06MGiKY96P2?si=79039d0fc19f4ab7",
+      "id": 18
+  },
+  {
+      "title": "Dekoloniseer het kunstonderwijs",
+      "authors": "Rekto Verso",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0019.pdf",
+      "id": 19
+  },
+  {
+      "title": "Design is Political: White Supremacy and Landscape Urbanism",
+      "authors": "Jennifer Low",
+      "tags": [
+          "urbanisme",
+          "ontwerp",
+          "racisme"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0020.pdf",
+      "id": 20
+  },
+  {
+      "title": "Digital activism, woman architects and Pritzker Prize",
+      "authors": "Failed Architecture",
+      "tags": [
+          "feminisme",
+          "architectuurpraktijk",
+          "discriminatie"
+      ],
+      "format": "podcast",
+      "url": "https://failedarchitecture.com/podcast/digital-activism-women-architects-pritzker-prize-w-arielle-assouline-lichten/",
+      "id": 21
+  },
+  {
+      "title": "Doing Dysability Differently",
+      "authors": "Jos Boys",
+      "tags": [
+          "beperking",
+          "toegankelijkheid",
+          "ontwerp"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0022.pdf",
+      "id": 22
+  },
+  {
+      "title": "Epistemic Justice in the Design Process",
+      "authors": "Luce Beeckmans",
+      "tags": [
+          "democratie",
+          "dekolonisatie",
+          "representatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0023.pdf",
+      "id": 23
+  },
+  {
+      "title": "Ethos",
+      "authors": "Chris Bremmers",
+      "tags": [
+          "zorg",
+          "wonen"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0024.pdf",
+      "id": 24
+  },
+  {
+      "title": "Failed Architecture",
+      "authors": "Failed Architecture",
+      "tags": [
+          "queer",
+          "urbanisme"
+      ],
+      "format": "website",
+      "url": "https://failedarchitecture.com/",
+      "id": 25
+  },
+  {
+      "title": "Fences and Between Fences: Cultural, Historical, and Smithsonian Perspectives",
+      "authors": "Robbie Davis and Ed Williams",
+      "tags": [
+          "privacy",
+          "gemeenschap",
+          "grenzen",
+          "publieke ruimte"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0026.pdf",
+      "id": 26
+  },
+  {
+      "title": "Hegemony, radical democracy, and the political",
+      "authors": "Chantal Mouffe",
+      "tags": [
+          "democratie",
+          "socialisme"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0027.pdf",
+      "id": 27
+  },
+  {
+      "title": "Making Space: Women and the Man-Made Environment",
+      "authors": "Matrix",
+      "tags": [
+          "feminisme",
+          "urbanisme",
+          "publieke ruimte",
+          "gender"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0028.pdf",
+      "id": 28
+  },
+  {
+      "title": "Hoe ga je om met genderstereotyperingen en seksisme op de werf? ",
+      "authors": "Emilie Lachaert",
+      "tags": [
+          "architectuurpraktijk",
+          "discriminatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0029.pdf",
+      "id": 29
+  },
+  {
+      "title": "Homeplace: A Site of Resistance",
+      "authors": "Bell Hooks",
+      "tags": [
+          "wonen",
+          "racisme",
+          "feminisme"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0030.pdf",
+      "id": 30
+  },
+  {
+      "title": "How to build a club: a talk with rave architecture collective Temporary Pleasure",
+      "authors": "Minimal collective",
+      "tags": [
+          "nachtleven",
+          "socialisme",
+          "participatie",
+          "ontwerp",
+          "queer"
+      ],
+      "format": "website",
+      "url": "https://www.minimalcollective.digital/editorial/how-to-build-a-club",
+      "id": 31
+  },
+  {
+      "title": "In een vrouwelijke stad voelen ook mannen zich thuis",
+      "authors": "DS Vandaag",
+      "tags": [
+          "urbanisme",
+          "publieke ruimte",
+          "inclusieve stad",
+          "feminisme"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/7jELdazuEiPIFAMhINCa6b?si=2749a90d2c234347&nd=1",
+      "id": 32
+  },
+  {
+      "title": "Including universal design in engineering courses to attract diverse students",
+      "authors": "Brianna Blaser",
+      "tags": [
+          "representatie",
+          "beperking",
+          "onderwijs"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0033.pdf",
+      "id": 33
+  },
+  {
+      "title": "Invisible women in invisible places: Lesbians, Lesbian Bars, and the Social Production of People/Environment Relationships",
+      "authors": "Maxine Wolfe",
+      "tags": [
+          "queer",
+          "publieke ruimte",
+          "privacy",
+          "representatie",
+          "nachtleven"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0034.pdf",
+      "id": 34
+  },
+  {
+      "title": "Lecture Jos Boys (Dis)ability",
+      "authors": "Jos Boys",
+      "tags": [
+          "beperking",
+          "toegankelijkheid",
+          "ontwerp"
+      ],
+      "format": "video",
+      "url": "https://www.youtube.com/watch?v=D9STKEmiMe0",
+      "id": 35
+  },
+  {
+      "title": "Lynn Formesyn: 'Ik mag niet te gezond lijken' ",
+      "authors": "Zwijgen is geen optie",
+      "tags": [
+          "beperking",
+          "toegankelijkheid"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/5nTPy0YRMhXMJQB5KjCjBC?si=8517e49993a743e6",
+      "id": 36
+  },
+  {
+      "title": "Feminism in architecture, then and now - Lecture by Jos Boys",
+      "authors": "Jos Boys",
+      "tags": [
+          "feminisme",
+          "urbanisme",
+          "publieke ruimte",
+          "gender"
+      ],
+      "format": "video",
+      "url": "https://www.youtube.com/watch?v=jwIeTDw-CiI",
+      "id": 37
+  },
+  {
+      "title": "Matrimony days",
+      "authors": "Apoline Vranken",
+      "tags": [
+          "geschiedenis",
+          "feminisme",
+          "erfgoed"
+      ],
+      "format": "website",
+      "url": "https://www.matrimonydays.be/",
+      "id": 38
+  },
+  {
+      "title": "Muslim Hoedowns, Tenous Kanguage and the Suspended Lives of the Urban Majority",
+      "authors": "Abdou Malik Simone",
+      "tags": [
+          "religie"
+      ],
+      "format": "video",
+      "url": "https://www.ijurr.org/lecture/2018-aag-lecture-muslim-hoedowns-tenuous-language-and-the-suspended-lives-of-the-urban-majority/",
+      "id": 39
+  },
+  {
+      "title": "My public island",
+      "authors": "Stiftung Freizeit",
+      "tags": [
+          "publieke ruimte",
+          "grenzen",
+          "participatie",
+          "gemeenschap"
+      ],
+      "format": "website",
+      "url": "http://www.stiftungfreizeit.com/search/label/My%20public%20island",
+      "id": 40
+  },
+  {
+      "title": "Negotiating secular boundaries: Pious micro-practices of Muslim women in French and German public spheres",
+      "authors": "Jeanette S. Jouili",
+      "tags": [
+          "religie",
+          "publieke ruimte",
+          "discriminatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0041.pdf",
+      "id": 41
+  },
+  {
+      "title": "Of Other Spaces (Vertaling)",
+      "authors": "Michel Foucault",
+      "tags": [
+          "urbanisme",
+          "normen",
+          "publieke ruimte"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0042.pdf",
+      "id": 42
+  },
+  {
+      "title": "On Difference: Masculine and Feminine",
+      "authors": "Adrian Forty ",
+      "tags": [
+          "gender",
+          "ontwerp",
+          "architectuurtheorie",
+          "taal"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0043.pdf",
+      "id": 43
+  },
+  {
+      "title": "On the Plaza: The Politics of Public Space and Culture (H6)",
+      "authors": "Setha Low",
+      "tags": [
+          "urbanisme",
+          "publieke ruimte",
+          "gemeenschap"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0044.pdf",
+      "id": 44
+  },
+  {
+      "title": "Open Architecture, Rightlessness, and Citizens-to-Come",
+      "authors": "Esra Akcan",
+      "tags": [
+          "racisme",
+          "burgerschap",
+          "mensenrechten"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0045.pdf",
+      "id": 45
+  },
+  {
+      "title": "Outrage: the prejudice against queer aesthetics",
+      "authors": "Adam Nathaniel Furman",
+      "tags": [
+          "queer",
+          "inclusieve stad",
+          "representatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0046.pdf",
+      "id": 46
+  },
+  {
+      "title": "Paola Antonelli and Alice Rawsthorn on design and human rights",
+      "authors": "Design Emergency",
+      "tags": [
+          "mensenrechten",
+          "ontwerp"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/4OkAE0Sei5agJaH5eUiwv3?si=27ca535ae69e448c",
+      "id": 47
+  },
+  {
+      "title": "Plaine du jeu du Jardin Botanique",
+      "authors": "Suede 36",
+      "tags": [
+          "publieke ruimte",
+          "recreatie",
+          "inclusieve stad",
+          "gemeenschap",
+          "participatie"
+      ],
+      "format": "website",
+      "url": "https://www.suede36.be/nl/content/botanische-tuin-speeltuin",
+      "id": 48
+  },
+  {
+      "title": "Praktijk",
+      "authors": "Els Vervloesem",
+      "tags": [
+          "gemeenschap",
+          "urbanisme",
+          "inclusieve stad",
+          "socialisme"
+      ],
+      "format": "website",
+      "url": "https://www.elsvervloesem.eu/selectie",
+      "id": 49
+  },
+  {
+      "title": "Primitive, Original matters in architecture",
+      "authors": "Jo Odgers, Flora Samuel, dam Sharr",
+      "tags": [
+          "architectuurtheorie",
+          "psychologie"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:001489286?i=0&q=Primitive%2C+Original+matters+in+architecture",
+      "id": 50
+  },
+  {
+      "title": "Public Plan Ghent N°1",
+      "authors": "Elly Van Eeghem",
+      "tags": [
+          "kaart",
+          "gent",
+          "inclusieve stad",
+          "publieke ruimte"
+      ],
+      "format": "website",
+      "url": "https://ellyvaneeghem.be/index.php/2022/04/30/public-plan-ghent-n1/",
+      "id": 51
+  },
+  {
+      "title": "Public space and private life: blurring the boundaries",
+      "authors": "Margaret Crawford",
+      "tags": [
+          "privacy",
+          "democratie",
+          "grenzen",
+          "publieke ruimte",
+          "gemeenschap"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0052.pdf",
+      "id": 52
+  },
+  {
+      "title": "Queering the map",
+      "authors": "Queering the map",
+      "tags": [
+          "queer",
+          "kaart",
+          "urbanisme",
+          "representatie"
+      ],
+      "format": "website",
+      "url": "https://www.queeringthemap.com/",
+      "id": 53
+  },
+  {
+      "title": "Race and Modern Architecture",
+      "authors": "Irene Cheng, Charles L. Davis II, Mabel O. Wilson",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0054.pdf",
+      "id": 54
+  },
+  {
+      "title": "Room at the Top? Sexism and the Star System in Architecture",
+      "authors": "Denise Scott Brown",
+      "tags": [
+          "feminisme",
+          "representatie",
+          "architectuurpraktijk",
+          "gender",
+          "discriminatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0055.pdf",
+      "id": 55
+  },
+  {
+      "title": "Safe Space - a queer practice ",
+      "authors": "Safe Space Collective",
+      "tags": [
+          "queer",
+          "normen",
+          "representatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0056.pdf",
+      "id": 56
+  },
+  {
+      "title": "Slavery in the City",
+      "authors": "Ellis Ginsburg, Rebecca Ginsburg",
+      "tags": [
+          "racisme",
+          "geschiedenis"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:002957125?i=0&q=slavery+in+the+city",
+      "id": 57
+  },
+  {
+      "title": "Stap per stap door de dekolonisatie: Blandijn",
+      "authors": "Michael Meeuwis, UNYA",
+      "tags": [
+          "erfgoed",
+          "onderwijs",
+          "dekolonisatie",
+          "geschiedenis",
+          "taal"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/2PDPILS0I1dTE1CKnYAx8u?si=a53249f77ebc4e69",
+      "id": 58
+  },
+  {
+      "title": "Stap per stap door de dekolonisatie: citadelbark ",
+      "authors": "Robrecht Declercq, UNYA",
+      "tags": [
+          "erfgoed",
+          "onderwijs",
+          "dekolonisatie",
+          "geschiedenis",
+          "taal"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/4Zx8QCUQV7H8VIYlKkHjPW?si=06c08a6372784a82",
+      "id": 59
+  },
+  {
+      "title": "Stap per stap door de dekolonisatie: STAM",
+      "authors": "Annelies Verdoolaege, UNYA",
+      "tags": [
+          "erfgoed",
+          "onderwijs",
+          "dekolonisatie",
+          "geschiedenis",
+          "taal"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/0qEOujTYtcPqsE4VUsGfAp?si=f0e21f50e8e847f8",
+      "id": 60
+  },
+  {
+      "title": "Stap per stap door de dekolonisatie: zuidpark",
+      "authors": "Stef Craps, UNYA",
+      "tags": [
+          "erfgoed",
+          "onderwijs",
+          "dekolonisatie",
+          "geschiedenis",
+          "taal"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/4Nl143A14PFLiJTUqqnQXy?si=93d74aaa95344fa6",
+      "id": 61
+  },
+  {
+      "title": "Stedenbouw en sociale verandering: Leren van vergeten geschiedenissen van stad maken",
+      "authors": "Els Vervloesem",
+      "tags": [
+          "urbanisme",
+          "migratie",
+          "geschiedenis",
+          "wonen",
+          "discriminatie",
+          "arbeid"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0062.pdf",
+      "id": 62
+  },
+  {
+      "title": "Structural Racialism in Modern Architectural Theory",
+      "authors": "Irene Cheng",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "architectuurtheorie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0063.pdf",
+      "id": 63
+  },
+  {
+      "title": "Studio René Boer",
+      "authors": "René Boer",
+      "tags": [
+          "democratie",
+          "queer",
+          "urbanisme",
+          "gemeenschap"
+      ],
+      "format": "website",
+      "url": "http://www.reneboer.net/index.php?pag=architectureofappropriation",
+      "id": 64
+  },
+  {
+      "title": "Temporary Pleasure",
+      "authors": "Temporary Pleasure",
+      "tags": [
+          "nachtleven",
+          "socialisme",
+          "participatie",
+          "ontwerp"
+      ],
+      "format": "social media",
+      "url": "https://www.instagram.com/temporary.pleasure/",
+      "id": 65
+  },
+  {
+      "title": "The feminist city: city of fear, 'pushing back",
+      "authors": "Leslie Kern",
+      "tags": [
+          "feminisme",
+          "ontwerp",
+          "urbanisme",
+          "toegankelijkheid"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0066.pdf",
+      "id": 66
+  },
+  {
+      "title": "The future of Amsterdam (Podcast Failed Architecture)",
+      "authors": "Failed Architecture",
+      "tags": [
+          "sekswerkers",
+          "nachtleven",
+          "publieke ruimte"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/4N7fOHA8O8peCnpNHEvXFF?si=4624a7e16e374ed8&nd=1",
+      "id": 67
+  },
+  {
+      "title": "The Role of Space in Processes of Exclusion and Normalization",
+      "authors": "Bruno de Meulder, Hilde Heynen",
+      "tags": [
+          "discriminatie",
+          "urbanisme",
+          "wonen",
+          "normen"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0068.pdf",
+      "id": 68
+  },
+  {
+      "title": "Turkije aan de Leie : 50 jaar migratie in Gent",
+      "authors": "Tina De Gendt",
+      "tags": [
+          "migratie",
+          "wonen",
+          "inclusieve stad",
+          "gent",
+          "geschiedenis",
+          "arbeid"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:002082261?i=0&q=turkije+aan+de+leie",
+      "id": 70
+  },
+  {
+      "title": "Wasteland",
+      "authors": "Wim Cuyvers",
+      "tags": [
+          "publieke ruimte",
+          "privacy"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0071.pdf",
+      "id": 71
+  },
+  {
+      "title": "When Walls Speak",
+      "authors": "Girls like us ",
+      "tags": [
+          "nachtleven",
+          "queer",
+          "feminisme",
+          "inclusieve stad"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0072.pdf",
+      "id": 72
+  },
+  {
+      "title": "Who builds your architecture",
+      "authors": "Mabel O Wilson",
+      "tags": [
+          "discriminatie",
+          "geschiedenis",
+          "arbeid"
+      ],
+      "format": "website",
+      "url": "http://whobuilds.org/",
+      "id": 73
+  },
+  {
+      "title": "Women in Architecture (with Dr Nadia Bertolino and Dr Tara Hipwood)",
+      "authors": "Archipod",
+      "tags": [
+          "architectuurpraktijk",
+          "gender",
+          "feminisme"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/6gIwPagz9AOF7kytRmw4jC?si=05f99bb7c10e4161",
+      "id": 74
+  },
+  {
+      "title": "Wonderground ",
+      "authors": "Julian Hallen Eriksen",
+      "tags": [
+          "publieke ruimte",
+          "recreatie",
+          "gemeenschap"
+      ],
+      "format": "website",
+      "url": "https://neighbourhoodindex.org/index/7957274c-77e1-4c05-a38e-db22ef77ff25/",
+      "id": 75
+  },
+  {
+      "title": "Wonen als sleutel tot inclusie",
+      "authors": "Vluchtelingenwerk Vlaanderen",
+      "tags": [
+          "migratie",
+          "wonen",
+          "gemeenschap"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0076.pdf",
+      "id": 76
+  },
+  {
+      "title": "Zijn vrouwen ondervertegenwoordigd in de architectuur?",
+      "authors": "Architectura Podcast ",
+      "tags": [
+          "architectuurpraktijk",
+          "gender",
+          "feminisme"
+      ],
+      "format": "podcast",
+      "url": "https://open.spotify.com/episode/333JndvKViu3orSs0ZWUZf?si=3ba207146d1643e9",
+      "id": 77
+  },
+  {
+      "title": "Het kleine ontmoeten",
+      "authors": "Ruth Soenen",
+      "tags": [
+          "publieke ruimte",
+          "antropologie",
+          "urbanisme",
+          "participatie"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/en/catalog/rug01:000944731?i=2&q=ruth+soenen",
+      "id": 78
+  },
+  {
+      "title": "Cohousing zonder community?",
+      "authors": "Ruth Soenen",
+      "tags": [
+          "gemeenschap",
+          "privacy",
+          "wonen"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0079.pdf",
+      "id": 79
+  },
+  {
+      "title": "Hood Century How one Man is redefining Midcentury Modern Architecture",
+      "authors": "Matt Shaw",
+      "tags": [
+          "geschiedenis"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0080.pdf",
+      "id": 80
+  },
+  {
+      "title": "“Compartmentalized World”: Race, Architecture, and Colonial Crisis in Kenya and London",
+      "authors": "Mark Crinson",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0081.pdf",
+      "id": 81
+  },
+  {
+      "title": "American Architecture in the Black Antlantic ",
+      "authors": "Peter Minosh",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0082.pdf",
+      "id": 82
+  },
+  {
+      "title": "And Thus Not Glowing Brightly Noah Purifoy's Junk Modernism",
+      "authors": "Lisa Uddin ",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0083.pdf",
+      "id": 83
+  },
+  {
+      "title": "Black and Blight",
+      "authors": "Andrew Herscher",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0084.pdf",
+      "id": 84
+  },
+  {
+      "title": "Drawing the Color Line",
+      "authors": "Reinhold Martin",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0085.pdf",
+      "id": 85
+  },
+  {
+      "title": "Erecting the Skyscraper, erasing race",
+      "authors": "Adrienne Brown ",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0086.pdf",
+      "id": 86
+  },
+  {
+      "title": "From \"terrestrial paradise\" to \"dreary waste\"",
+      "authors": "addison Godel",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0087.pdf",
+      "id": 87
+  },
+  {
+      "title": "Henry Van Brunt and White Settler",
+      "authors": "Charles L Davis",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0088.pdf",
+      "id": 88
+  },
+  {
+      "title": "Introduction Race and Modern Architecture",
+      "authors": "",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0089.pdf",
+      "id": 89
+  },
+  {
+      "title": "Modeling Race and Class\nArchitectural Photography and the\nU.S. Gypsum Research Village, 1952–1955",
+      "authors": "Dianne Harris",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0090.pdf",
+      "id": 90
+  },
+  {
+      "title": "Modern Architecture and Racial Eugenics at the Esposizione Universale di Roma",
+      "authors": "Brian L. McLaren",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0091.pdf",
+      "id": 91
+  },
+  {
+      "title": "Notes on the Virginia Capitol ",
+      "authors": "Mabel O. Wilson",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0092.pdf",
+      "id": 92
+  },
+  {
+      "title": "Race and Miscegenation in Early\nTwentieth-Century\nMexican Architecture",
+      "authors": "Luis E. Carranza",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0093.pdf",
+      "id": 93
+  },
+  {
+      "title": "Race and Tropical Architecture\nThe Climate of Decolonization\nand “Malayanization”",
+      "authors": "Jiat-Hwee Chang",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0094.pdf",
+      "id": 94
+  },
+  {
+      "title": "Style, Race, and a Mosque of the “Òyìnbó\nDúdú” (White-Black)\nin Lagos Colony, 1894",
+      "authors": "Adedoyin Teriba",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0095.pdf",
+      "id": 95
+  },
+  {
+      "title": "The \"New Birth of Freedom\"",
+      "authors": "Joanna Merwood-Salisbury",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0096.pdf",
+      "id": 96
+  },
+  {
+      "title": "The invention of Indigenous Architecture",
+      "authors": "Kenny Cupers",
+      "tags": [
+          "racisme",
+          "geschiedenis",
+          "dekolonisatie"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0097.pdf",
+      "id": 97
+  },
+  {
+      "title": "Subaltern Architectures: Can Drawing “tell” a Different Story?",
+      "authors": "Huda Tayob",
+      "tags": [
+          "migratie",
+          "postkoloniaal"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0098.pdf",
+      "id": 98
+  },
+  {
+      "title": "The cultures of cities: whose culture? whose city?",
+      "authors": "Sharon Zukin",
+      "tags": [
+          "urbanisme"
+      ],
+      "format": "pdf",
+      "url": "https://raw.githubusercontent.com/Jokerweek/database/main/pdf/0099.pdf",
+      "id": 99
+  },
+  {
+      "title": "the slightest attachment",
+      "authors": "Ariane D'Hoop",
+      "tags": [
+          "zorg",
+          "gemeenschap"
+      ],
+      "format": "website",
+      "url": "https://www.transcript-publishing.com/978-3-8376-6556-7/the-slightest-attachment/",
+      "id": 100
+  },
+  {
+      "title": "Spatial Agency",
+      "authors": "Spatial Agency",
+      "tags": [
+          "kaart",
+          "architectuurtheorie"
+      ],
+      "format": "website",
+      "url": "https://www.spatialagency.net/",
+      "id": 101
+  },
+  {
+      "title": "Rabot 4-358",
+      "authors": "Simon Allemeersch, Bart Capelle, Mario Debaene",
+      "tags": [
+          "rabot",
+          "wonen",
+          "gemeenschap"
+      ],
+      "format": "boek",
+      "url": "https://lib.ugent.be/nl/catalog/rug01:002177917",
+      "id": 102
+  },
+  {
+      "title": "Rabot 4-358, lecture KASK & Conservatorium",
+      "authors": "Simon Allemeersch",
+      "tags": [
+          "rabot",
+          "wonen",
+          "gemeenschap"
+      ],
+      "format": "video",
+      "url": "https://vimeo.com/122626791?signup=true",
+      "id": 103
+  },
+  {
+      "title": "Het Gevoelig Lexicon",
+      "authors": "De Standaard",
+      "tags": [
+          "taal",
+          "beperking",
+          "migratie",
+          "gender",
+          "queer",
+          "racisme"
+      ],
+      "format": "website",
+      "url": "https://www.standaard.be/gevoelig-lexicon",
+      "id": 104
+  },
+  {
+      "title": "Zeg ik het goed?",
+      "authors": "UGent",
+      "tags": [
+          "taal",
+          "migratie",
+          "beperking",
+          "gender",
+          "queer",
+          "racisme"
+      ],
+      "format": "website",
+      "url": "https://www.ugent.be/nl/univgent/missie/diversiteit-en-inclusie/voor-de-ugent-community/inclusievecommunicatie/woordkeuze",
+      "id": 105
+  },
+  {
+      "title": "STAMplein: De vierkante kilometer - Rabot",
+      "authors": "STA,M",
+      "tags": [
+          "rabot",
+          "gemeenschap",
+          "urbanisme",
+          "wonen"
+      ],
+      "format": "tentoonstelling",
+      "url": "https://stamgent.be/nl_be/evenementen/stamplein-de-vierkante-kilometer-rabot",
+      "id": 106
+  }
 ]
-}
