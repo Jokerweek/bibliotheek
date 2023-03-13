@@ -53,7 +53,7 @@ export default function CardLiterature(props) {
   };
 
   const handleRedirect = () => {
-    if (props.pdf) {
+    if (props.format === "pdf") {
       setPreview(true)
     } else {
       window.open(props.link, '_blank')
