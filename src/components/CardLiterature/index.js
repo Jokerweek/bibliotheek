@@ -125,6 +125,11 @@ export default function CardLiterature(props) {
               sx={{ margin: "6px" }}
               onClick={handleFormatClick}
             />
+            <Grid container justifyContent="flex-end">
+              <Typography color="text.secondary">
+                tags
+              </Typography>
+            </Grid>
             <ExpandMore
               expand={expanded}
               onClick={handleExpandClick}

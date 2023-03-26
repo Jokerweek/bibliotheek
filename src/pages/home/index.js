@@ -15,9 +15,9 @@ export default function Literature() {
   const [tag, setTag] = useRecoilState(tagSelect)
   const [format, setFormat] = useRecoilState(formatSelect)
 
-  /* tags.sort().forEach(element => {
+  tags.sort().forEach(element => {
     console.log(element)
-  }); */
+  });
 
   let bib2 = []  
 
@@ -43,8 +43,6 @@ export default function Literature() {
     bib2 = bib
   }
 
-  console.log(tag)
-
   return (
     <Box
       sx={{
@@ -58,10 +56,10 @@ export default function Literature() {
       }}
      >
       <Grid container spacing={4}>
-        <Grid item xs={6}>
+        <Grid item sm={6} xs={12}>
           <TextSelect label="Kies je tag" data={tags.sort()} value={tag} callBack={e => setTag(e)}/>
         </Grid>
-        <Grid item xs={6}>
+        <Grid item sm={6} xs={12}>
           <TextSelect label="Kies je bestandstype" data={formats.sort()} value={format} callBack={e => setFormat(e)}/>
         </Grid>
         <Grid item xs={12} container spacing={4}>
